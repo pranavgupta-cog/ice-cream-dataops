@@ -1,0 +1,6 @@
+- externalId: ds_ice_cream_factory_source_data
+  name: Ice Cream Factory Source Data
+  description: This dataset contains ice cream factory source data.
+  writeProtected: false
+  metadata:
+    origin: cognite-toolkit
